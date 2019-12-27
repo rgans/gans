@@ -1,0 +1,17 @@
+{
+    "name": "gans.web",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "main": "index.js",
+    "author": "rgans",
+    "contributors": [],
+    "dependencies": {
+        "restify": "*"
+    }
+}
